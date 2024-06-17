@@ -6,6 +6,9 @@
     <build-profile instance="vd">
         <variables>
             <noindex-content>true</noindex-content>
+            <primary-color>
+                emerald
+            </primary-color>
         </variables>
     </build-profile>
 
