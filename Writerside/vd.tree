@@ -6,6 +6,9 @@
                  name="Viridia Documentation"
                  start-page="starter.md">
 
+    <toc-element topic="Roles-and-Teammebers.md"/>
+    <toc-element topic="Why-Viridia.md"/>
+    <toc-element topic="Story-Point-Mappings.md"/>
     <toc-element topic="starter.md">
     </toc-element>
     <toc-element topic="Nested-Topics.md">
